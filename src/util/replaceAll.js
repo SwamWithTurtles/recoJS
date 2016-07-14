@@ -1,0 +1,1 @@
+export default (target, search, replacement) => target.split(search).join(replacement);

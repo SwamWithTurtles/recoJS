@@ -1,0 +1,1 @@
+export default record => record._fields[0].identity.low;

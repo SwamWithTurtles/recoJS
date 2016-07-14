@@ -1,0 +1,7 @@
+/.idea
+/dist
+/**/bower_components
+/node_modules
+/*.iml
+/**/*.map
+/**/*.DS_Store
